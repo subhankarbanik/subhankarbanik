@@ -28,8 +28,9 @@ I’m a passionate full-stack web developer specializing in the **MERN stack** (
 
 
 - 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/subhankar-banik/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/subhankar-banik/)
 - **Email:** subhankarbanik4msbu@gmail.com
+- **PortFolio:** https://subhankardev.vercel.app/
 
 - 🌟 Fun Fact
 I'm transitioning from a career in sales and consulting to full-stack development, driven by my passion for technology and problem-solving!
