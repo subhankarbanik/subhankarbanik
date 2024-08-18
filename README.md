@@ -25,7 +25,14 @@ I’m a passionate full-stack web developer specializing in the **MERN stack** (
 - **Others:** Webpack, Babel, Postman, VS Code
 
 - 👨‍💻 My Projects
-
+   ### [Health & Nutrition App](https://github.com/sanjukumari-tech/Baidu-Bandits_072.git)
+      A personalized health and wellness app with an interactive dashboard, tracking various health metrics and offering personalized recommendations.
+   ### [Basket Heaven](https://github.com/sathwikreddy122/Basket-Heaven.git)
+      Basket Heaven features a fully functional shopping cart, user authentication, product reviews, and an admin dashboard for managing inventory.
+   ### [Ludo App](https://github.com/Akhil97Negi/Ludo_Junction.git)
+      You Can Play Ludo with other person around the globe in real time , can also chat with the playing players and also can spectate the other games.
+   ### [Khan Academy Clone](https://github.com/subhankarbanik/Project-LearnWise.git)
+      A responsive clone of Khan Academy built with HTML, CSS, Bootstrap, and JavaScript. Features a dynamic dashboard and user interface improvements.
 
 - 📫 How to Reach Me
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/subhankar-banik/)
