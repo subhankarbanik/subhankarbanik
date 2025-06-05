@@ -2,7 +2,7 @@
 - 👋 Hi there, I'm Subhankar Banik
 
 - 🚀 About Me
-I’m a passionate full-stack web developer specializing in the **MERN stack** (MongoDB, Express.js, React, and Node.js). With a background in sales and consulting, I bring a unique perspective to web development, focusing on building scalable, user-friendly applications that solve real-world problems.
+Hi, I'm a versatile full-stack engineer with hands-on experience in the MERN stack and cloud deployments using AWS. Brings together product thinking and engineering execution to deliver robust, maintainable software.
 
 - 🌱 I’m currently honing my skills in advanced React, Node.js, and cloud deployment.
 - 🛠️ I have hands-on experience with responsive design, RESTful APIs, and integrating third-party services.
